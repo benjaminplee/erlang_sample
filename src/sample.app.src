@@ -1,6 +1,6 @@
 {application, sample,
  [
-  {description, ""},
+  {description, "Sample erlang Echo server app"},
   {vsn, "1"},
   {registered, []},
   {applications, [
